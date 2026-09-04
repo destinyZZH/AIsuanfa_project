@@ -1,0 +1,10 @@
+[
+  {"qid": "E01", "query": "玻璃起雾了怎么处理", "relevant_ids": ["M002"]},
+  {"qid": "E02", "query": "怎么给方向盘加热", "relevant_ids": ["M004"]},
+  {"qid": "E03", "query": "充电枪插了没充电", "relevant_ids": ["M006"]},
+  {"qid": "E04", "query": "我想设定巡航速度", "relevant_ids": ["M007"]},
+  {"qid": "E05", "query": "怎么连蓝牙", "relevant_ids": ["M009"]},
+  {"qid": "E06", "query": "语音怎么叫醒", "relevant_ids": ["M012"]},
+  {"qid": "E07", "query": "后排小孩开门怎么锁", "relevant_ids": ["M011"]},
+  {"qid": "E08", "query": "座椅太冷怎么加热", "relevant_ids": ["M003"]}
+]
