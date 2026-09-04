@@ -2,5 +2,6 @@
 **/__pycache__/
 *.pyc
 .cursor/hooks/state/
+.idea/
 .DS_Store
 Thumbs.db

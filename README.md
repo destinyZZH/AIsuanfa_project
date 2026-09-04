@@ -15,4 +15,4 @@ python -m pip install -r requirements.txt
 
 用 Cursor 打开克隆下来的文件夹，新开 Agent 对话，说：
 
-> 请阅读 course/CONVERSATION.md 和 course/HANDOFF.md，按里面的对话记录接着教。
+> 请阅读 course/CONVERSATION.md 和 course/HANDOFF.md，按里面的对话记录接着教。第 1 周已完成，从第 2 周 `course/week02/01_error_analysis.py` 继续。

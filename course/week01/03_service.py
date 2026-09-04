@@ -3,8 +3,8 @@
 数据（CSV）→ 检索函数 → HTTP 接口 → 日志。
 前端叫 /ask，车机以后也可以叫同一个接口。
 
-运行：
-  python -m uvicorn 03_service:app --reload --port 8000
+在 PyCharm 里直接运行本文件即可，控制台需保持不关。
+或在终端：python -m uvicorn 03_service:app --reload --port 8000
 然后浏览器打开 http://127.0.0.1:8000/docs
 """
 
@@ -61,3 +61,9 @@ def ask(body: AskRequest) -> dict:
         "latency_ms": elapsed_ms,
         "results": ranked.to_dict(orient="records"),
     }
+
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(app, host="127.0.0.1", port=8000)

@@ -1,0 +1,22 @@
+[
+  {"qid": "E01", "query": "玻璃起雾了怎么处理", "relevant_ids": ["M002"], "note": "第1周已命中"},
+  {"qid": "E02", "query": "怎么给方向盘加热", "relevant_ids": ["M004"], "note": "第1周已命中"},
+  {"qid": "E03", "query": "充电枪插了没充电", "relevant_ids": ["M006"], "note": "第1周已命中"},
+  {"qid": "E04", "query": "我想设定巡航速度", "relevant_ids": ["M007"], "note": "第1周已命中"},
+  {"qid": "E05", "query": "怎么连蓝牙", "relevant_ids": ["M009"], "note": "第1周已命中"},
+  {"qid": "E06", "query": "语音怎么叫醒", "relevant_ids": ["M012"], "note": "近义：叫醒≠唤醒"},
+  {"qid": "E07", "query": "后排小孩开门怎么锁", "relevant_ids": ["M011"], "note": "近义：小孩≠儿童"},
+  {"qid": "E08", "query": "座椅太冷怎么加热", "relevant_ids": ["M003"], "note": "第1周已命中"},
+  {"qid": "E09", "query": "后窗起雾了", "relevant_ids": ["M013"], "note": "后窗 vs 后除雾"},
+  {"qid": "E10", "query": "车里有味道怎么换气", "relevant_ids": ["M014"], "note": "味道≠异味 换气≠外循环"},
+  {"qid": "E11", "query": "风能不能吹脚上", "relevant_ids": ["M015"], "note": "口语"},
+  {"qid": "E12", "query": "副驾驶座椅吹风", "relevant_ids": ["M016"], "note": "吹风≠通风"},
+  {"qid": "E13", "query": "充电不要充太满", "relevant_ids": ["M020"], "note": "口语 vs 充电上限"},
+  {"qid": "E14", "query": "天冷充电好慢", "relevant_ids": ["M021"], "note": "天冷≠冬天"},
+  {"qid": "E15", "query": "停车松刹车别溜车", "relevant_ids": ["M022"], "note": "口语 vs AutoHold"},
+  {"qid": "E16", "query": "倒车看周围一圈", "relevant_ids": ["M036"], "note": "口语 vs 360全景"},
+  {"qid": "E17", "query": "后排小孩别把窗户按开", "relevant_ids": ["M039"], "note": "窗锁，易和儿童锁混"},
+  {"qid": "E18", "query": "升级失败了怎么办", "relevant_ids": ["M033"], "note": "升级≠OTA"},
+  {"qid": "E19", "query": "轮胎瘪了在哪看", "relevant_ids": ["M031"], "note": "瘪了≠胎压低"},
+  {"qid": "E20", "query": "语音听不见我", "relevant_ids": ["M040"], "note": "听不见≠听不清"}
+]

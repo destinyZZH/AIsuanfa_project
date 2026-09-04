@@ -17,19 +17,15 @@
 
 ## 学到哪了
 
-- 本机已装 Python 3.12，第 1 周代码在 `course/week01`
-- 虚拟环境在 `course/week01/.venv`（回家后重新创建即可，不必拷走）
-- 关键词检索基线命中率：6/8 = 75%
-- 打错的两条：
-  - 「语音怎么叫醒」打到了导航回家（M010），应为语音唤醒（M012）
-  - 「后排小孩开门怎么锁」没命中儿童锁（M011）
+- 第 1 周已完成：Python 对照、75% 基线、两条 MISS 的原因、`/ask` 服务跑通
+- 第 2 周进行中：手册扩到 42 条，评测 20 题，代码在 `course/week02`
+- 解释器继续用 `course/week01/.venv`
 
-## 第 1 周还没做完的作业
+## 第 2 周作业
 
-1. 跑通 `01_from_js.py`、`02_search_faq.py`、`03_service.py`
-2. 用自己的话解释那两条为什么打错
-3. 在 `data/manual_faq.csv` 里再加 3 条真实座舱问题
-4. 工作里问座舱 / 智能网联同事：评测页、手册、日志缺不缺人做
+1. 运行 `course/week02/01_error_analysis.py`
+2. 把 3 条 MISS 写进 `course/week02/ERROR_ANALYSIS.md`
+3. 先不要改 `search_lib.py` 的打分
 
 ## 回家后怎么开新对话
 
